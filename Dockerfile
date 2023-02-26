@@ -1,3 +1,3 @@
-FROM webapp7/webapp7
+FROM hshar/webapp
 add . /var/www/html
 
